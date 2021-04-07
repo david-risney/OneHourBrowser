@@ -1,2 +1,2 @@
 # OneHourBrowser
-Demo WinForms WebView2 EasyTabs browser
+Ridiculous concept browser.
